@@ -33,9 +33,13 @@ In your backend folder:
 .env file should have following
 `
 AWS_ACCESS_KEY_ID=
+
 AWS_SECRET_ACCESS_KEY=
+
 S3_BUCKET_NAME=med-health-files
+
 AWS_REGION=
+
 MONGO_URL=
 `
 
